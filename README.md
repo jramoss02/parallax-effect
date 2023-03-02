@@ -1,11 +1,10 @@
 # Parallax Effect (CSS)
 
-![finance](https://user-images.githubusercontent.com/77749469/221908852-1db384a6-f208-4a20-8e2a-9b213d7ab69c.gif)
+![parallax](https://user-images.githubusercontent.com/77749469/222499349-e1f12680-b9fd-4fc1-b710-2e4bb68e53d6.gif)
 
 > Visualização do projeto.
 
 ## 🛠️ Construído com
-
 
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada.
 * [HTML/CSS] - Linguagens utilizadas.
