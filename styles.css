@@ -91,9 +91,10 @@ body{
   section.module.parallax h1{
     color: #FFF;
     text-align: center;
-    font-size: 78px;
+    font-size: 85px;
     z-index: 50;
     text-transform: uppercase;
+    opacity: 85%;
   }
   
   @media all and (max-width: 820px) {
